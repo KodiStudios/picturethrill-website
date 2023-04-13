@@ -1,3 +1,5 @@
-# picturethrill.github.io
+# Picturethrill App from Kodi Studios
 
-Sample Content
+# Privacy Statement
+
+[Privacy](Privacy.md)
