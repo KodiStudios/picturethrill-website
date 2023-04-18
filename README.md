@@ -1,5 +1,6 @@
 # Picturethrill App from Kodi Studios
 
-# Privacy Statement
+## Links
 
-[Privacy](Privacy.md)
+[Picturethrill Privacy Statement](Privacy.md)  
+[Picturethrill Setup Error Codes](PicturethrillSetupErrorCodes.md)
